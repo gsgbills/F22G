@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "F22G"
+  site-url: "https://gsgbills.github.io/F22G"
+  description: "Fastai 22 commented and edited"
+  repo-branch: main
+  repo-url: "https://github.com/gsgbills/F22G"
